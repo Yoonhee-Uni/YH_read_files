@@ -1,0 +1,14 @@
+Pizza,Cost,Description,Calories
+Margherita,£10.41,"Mozzarella cheese, tomato, oregano",765kcal
+Napoletana,£10.89,"Cheese, tomato, anchovies, oregano, garlic",874kcal
+Diavola,£10.53,"Cheese, tomato, pepperoni, chilli, salami, onions",1023kcal
+Vegetariana,£10.77,"Mushrooms, peppers, onion, spinach, asparagus",654kcal
+Prosciutto,£9.56,"Mozzarella cheese, tomato and ham",765kcal
+Capri,£11.01,"Cheese, tomato, olives, anchovies, garlic, capers",874kcal
+Funghi,£11.37,"Mozzarella cheese, tomato and mushrooms",567kcal
+Quattro Stagioni,£10.14,"Cheese, tomato, mushrooms, artichokes, ham",765kcal
+Sorrento,£10.89,"Mozzarella cheese, tomato, ham and pineapple",876kcal
+Meridiana,£11.74,"Cheese, tomato, ham, mushrooms and chicken",798kcal
+Sweet Potato Pizza,£11.98,"Vegan cheese, Sweet Potato, Vegan pepperoni",563kcal
+
+gochujang-pizza,£9.56,"gochujang-paste, Mozzarella cheese, chilli, hot chili",7300kcal
